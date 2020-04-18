@@ -1,10 +1,10 @@
-package com.purshell.utsamples;
+package com.purshell.ut;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UtSamplesApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

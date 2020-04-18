@@ -1,13 +1,13 @@
-package com.purshell.utsamples;
+package com.purshell.ut;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UtSamplesApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UtSamplesApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
